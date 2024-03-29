@@ -34,6 +34,22 @@ we utilize the [SCARED](https://endovissub2019-scared.grand-challenge.org/) as t
 
 *DERS* purposefully devised to combine three pivotal components—error, accuracy, and robustness—into a comprehensive composite index.
 
+The *DERS* is calculated as follows:
+
+<p float="left">
+  <img src="assets/images/DERS.png" width="200px" height="70px" />
+</p>
+
+where E, A, and R are the Error Component, Accuracy Component, and Robustness Component, respectively.
+
+<p float="left">
+  <img src="assets/images/E.png" width="200px" height="70px" />
+  <img src="assets/images/A.png" width="200px" height="70px" /> 
+  <img src="assets/images/R.png" width="200px" height="70px" />
+</p>
+
+
+
      \ metrics
 level   abs_rel, sq_rel, rmse, rmse_log, a1, a2, a3
 0
