@@ -46,6 +46,8 @@ The **SCARED-C** dataset is structured as follows:
 
 Note that _clean_ refers to the original image without any corruptions applied.
 
+The dataset is available at [OneDrive](https://mycuhk-my.sharepoint.com/:u:/g/personal/1155172831_link_cuhk_edu_hk/EVDt---vD7hDr8qp2HEmKvMBL9oYxtZTid5_tAfZswpD-Q?e=MQD4Oa).
+
 ### Usage
 1. Install basic packages, inlcuding torch, torchvision, numpy, etc.
 2. Refer to [AF-SfMLearner](https://github.com/ShuweiShao/AF-SfMLearner?tab=readme-ov-file#-datasets) to download and process the SCARED dataset.
